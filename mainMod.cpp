@@ -1,4 +1,4 @@
-#include "HGraphMod.hpp"
+#include "HGraphModified.hpp"
 
 #include <chrono>
 #include <filesystem>
